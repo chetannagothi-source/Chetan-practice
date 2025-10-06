@@ -1,4 +1,4 @@
-#include "complib.h"
+#include "complicb.h"
 
 int one_comp(int bin[32]){
 	int one_comp[32];

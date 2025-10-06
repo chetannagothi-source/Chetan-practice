@@ -2,7 +2,7 @@
 #include "complicb.h"
 int main(){
 	int one_comp[32];
-	int a,bin[32];
+	int i,a,bin[32];
 	printf("Enter a number:");
 	scanf("%b",&a);
 	bin=dtobin(a);

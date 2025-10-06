@@ -4,4 +4,4 @@
 int dtobin(int digit);
 int one_comp(int bin[32]);
 
-#
+#endif

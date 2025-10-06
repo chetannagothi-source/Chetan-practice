@@ -1,7 +1,7 @@
-#include "complib.h"
+#include "complicb.h"
 
 int dtobin(int digit){
-	int i=0 bin[32];
+	int i=0 ,bin[32];
 	if ( digit == 0 ){
 		return 0;
 	} else {
